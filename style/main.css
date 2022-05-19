@@ -43,7 +43,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: url(/img/capa-x-men.jpg);
+    background: url('/img/capa-x-men.jpg');
 
     height: 400px;
     background-size: cover;
